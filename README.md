@@ -113,7 +113,7 @@ steam-review-analytics/
 
 **1 — Clone the repository**
 ```bash
-git clone https://github.com/your-username/steam-review-analytics.git
+git clone https://github.com/abouelmagdomar/steam-review-analytics.git
 cd steam-review-analytics
 ```
 
