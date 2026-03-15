@@ -10,7 +10,7 @@ An automated Steam review analytics pipeline that ingests thousands of player re
 
 Demonstrated on **Assassin's Creed Shadows** (Ubisoft, 2025) with 8,528 reviews analysed.
 
-**[View Live Dashboard →](https://your-username-steam-review-analytics.streamlit.app)**
+**[View Live Dashboard →](https://steam-review-analytics-sqx87hlv2sgiu7kxgjg39j.streamlit.app/)**
 
 ---
 
