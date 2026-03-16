@@ -248,6 +248,12 @@ st.markdown("---")
 # ── Row 4: Top keywords ──────────────────────────────────────────
 
 st.subheader("Top keywords")
+st.caption(
+    "Keywords are ranked by model importance score — how strongly each word predicts "
+    "positive or negative sentiment. Crash-related keywords carry more weight when "
+    "cross-referenced with playtime — complaints from players with 10h+ are less likely "
+    "to reflect hardware incompatibility and more likely to indicate a genuine game stability issue."
+)
 
 col_pos, col_neg = st.columns(2)
 
